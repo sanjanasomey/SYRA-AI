@@ -1,0 +1,15 @@
+﻿# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Backup files
+*.bak
+*_backup.py
+app_before_fix.py
